@@ -1,8 +1,17 @@
-{   "name" : "models",
+{   
+    "name" : "mongoose_models_pakit",
+	"description": "Autoload for models in Mongoose",
+    "author": {
+        "name": "André Karell",
+        "email": "akd3vs@gmail.com"
+    },
     "main" : "./index.js",
     "version": "0.0.1",
-    "private": true,
+    "private": false,
     "dependencies": {
         
+    },
+    "engines": {
+        "node": "*"
     }
 }
